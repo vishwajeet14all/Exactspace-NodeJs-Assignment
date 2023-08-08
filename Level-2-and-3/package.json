@@ -1,0 +1,16 @@
+{
+  "name": "exactspace_nodejs_assignment",
+  "version": "1.0.0",
+  "description": "It is node.js assignment completed in the partial fullfilment of round 1 selection",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Vishwajeet Yadav",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
