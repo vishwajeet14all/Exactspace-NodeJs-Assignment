@@ -19,7 +19,7 @@ https://exactspace-nodejs-assignment.onrender.com/
 
 ## How to Use
 
-1. Clone the repository: `git clone https://github.com/rajendrasarak90/Exactspace-NodeJs-Assignment.git`
+1. Clone the repository: `git clone https://github.com/vishwajeet14all/Exactspace-NodeJs-Assignment.git`
 2. Install dependencies: `npm install`
 3. Start Server: `npm start`
 4. Open your web browser and navigate to http://localhost:3000.
