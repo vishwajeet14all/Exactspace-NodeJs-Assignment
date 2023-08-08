@@ -1,5 +1,5 @@
 Exactspace-NodeJs-Assignment
-1BASH 
+Level-1     BASH 
 
 Description
 This script helps you find the largest log file with the .log extension on your computer and then truncates it to 100 lines using the tail command. It is useful for managing large log files and ensuring that they do not become too overwhelming to handle.
